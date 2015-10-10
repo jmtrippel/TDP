@@ -2,7 +2,7 @@ package uns.tdp.ejemplos.juego;
 
 import java.util.Random;
 
-import uns.tdp.ejemplos.gui.GUI;
+import uns.tdp.ejemplos.juego.gui.GUI;
 import uns.tdp.ejemplos.juego.threads.MaloThread;
 
 public class Juego {

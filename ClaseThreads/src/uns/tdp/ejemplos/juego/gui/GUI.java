@@ -1,4 +1,4 @@
-package uns.tdp.ejemplos.gui;
+package uns.tdp.ejemplos.juego.gui;
 
 import java.awt.EventQueue;
 
