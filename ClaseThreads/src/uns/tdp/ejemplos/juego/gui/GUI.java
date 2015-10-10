@@ -6,7 +6,7 @@ import javax.swing.JFrame;
 import javax.swing.JPanel;
 import javax.swing.border.EmptyBorder;
 
-import uns.tdp.ejemplos.juego.Juego;
+import uns.tdp.ejemplos.juego.entidades.Juego;
 
 import java.awt.event.KeyAdapter;
 import java.awt.event.KeyEvent;

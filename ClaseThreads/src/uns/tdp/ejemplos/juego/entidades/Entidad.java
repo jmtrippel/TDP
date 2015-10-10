@@ -1,4 +1,4 @@
-package uns.tdp.ejemplos.juego;
+package uns.tdp.ejemplos.juego.entidades;
 
 import java.awt.Point;
 

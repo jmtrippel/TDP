@@ -1,6 +1,6 @@
 package uns.tdp.ejemplos.juego.threads;
 
-import uns.tdp.ejemplos.juego.Malo;
+import uns.tdp.ejemplos.juego.entidades.Malo;
 
 public class MaloThread extends Thread {
 	
